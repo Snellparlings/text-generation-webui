@@ -8,3 +8,5 @@ sentence_transformers==2.2.2
 spacy
 pytextrank
 num2words
+nltk
+
